@@ -1,0 +1,2 @@
+--env ANNOT_DIR	--env CHR	--env OUT_DIR
+/mnt/data/annot/	21	/mnt/data/results/
